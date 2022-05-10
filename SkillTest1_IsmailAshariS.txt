@@ -1,0 +1,4 @@
+Nama : Ismail Ashari Sambara
+Umur : 21 Tahun
+Stack : Fullstack
+Bahasa Pemrogramman : JavaScript
